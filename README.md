@@ -163,3 +163,6 @@ MIT — see [LICENSE](LICENSE).
 - [ContentCraft AI](https://wa.me/5016691053?text=Hi%20Ingenious%20AI!%20I%20want%20early%20access%20to%20ContentCraft%20AI) — AI content studio
 
 Want early access to any platform? Tap a link above — it opens WhatsApp with a pre-filled request.
+
+
+> Built by Ingenious AI with Muse — get free tokens with invite code `2HCQH1`
