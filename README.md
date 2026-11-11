@@ -165,4 +165,4 @@ MIT — see [LICENSE](LICENSE).
 Want early access to any platform? Tap a link above — it opens WhatsApp with a pre-filled request.
 
 
-> Built by Ingenious AI with Muse — get free tokens with invite code `2HCQH1`
+> Built by Ingenious AI
